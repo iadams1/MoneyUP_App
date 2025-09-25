@@ -1,4 +1,4 @@
-# moneyup
+# MoneyUp is a college financial app developed to improve the communications and awareness with money.
 
 A new Flutter project.
 
